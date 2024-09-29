@@ -1,7 +1,7 @@
 # Accessibility of Regent Street and its Impact on Retail Property Rents
 # Project Overview
 
-This project is supervised by Professor Nicolas Holliman from King’s College London (KCL) and involved in the KPMG BODS Dissertation Scheme. The topic is inspired by the "Future of Regent Street (2024)" project, a collaboration between the Crown Estate and Westminster City Council. The study examines transportation and green space accessibility from both static and dynamic perspectives, along with social and retail property characteristics, and explores how these factors influence retail rents.
+This project is supervised by Professor Nicolas Holliman from King’s College London (KCL) and involved in the KPMG BODS Dissertation Scheme. The topic is inspired by the "Future of Regent Street (2024)" project, a collaboration between the Crown Estate and Westminster City Council. The study examines transportation and green space accessibility in Regent Street from both static and dynamic perspectives, along with social and retail property characteristics, and explores how these factors influence retail rents.
 
 ## 1. Source Code
 
@@ -68,3 +68,7 @@ Raw data collected with the BODS API using a bounding box (every 20 minutes).
 ## 5. BODS_realtime_position
 
 Bus positions within Regent Street (every 20 minutes).
+
+## 6. PPT(brief)
+
+This version of the presentation is used for reporting to CUSP and the Crown Estate.
