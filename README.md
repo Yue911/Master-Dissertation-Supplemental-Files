@@ -15,37 +15,37 @@ The source code consists of three IPynb files:
 
 - **[Heat map of bus stops in London](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_bus_stops.html)**
 
-- **[Heat map of bus stops in Regent Street](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/heatmap_bus_stops_regent.html)**
+- **[Heat map of bus stops in Regent Street](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_bus_stops_regent.html)**
 
-- **[Heat map of tube stations in London](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/heatmap_tube_stations.html)**
+- **[Heat map of tube stations in London](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_tube_stations.html)**
 
-- **[Heat map of tube stations in Regent Street](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/heatmap_tube_stations_regent.html)**
+- **[Heat map of tube stations in Regent Street](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_tube_stations_regent.html)**
 
-- **[Heat map of retail properties](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/heatmap_properties.html)**
+- **[Heat map of retail properties](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_properties.html)**
 
-- **[BODS raw data on July 19](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0719.html)**
+- **[BODS raw data on July 19](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0719.html)**
 
-- **[BODS raw data on July 20](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0720.html)**
+- **[BODS raw data on July 20](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0720.html)**
 
-- **[BODS raw data on July 21](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0721.html)**
+- **[BODS raw data on July 21](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0721.html)**
 
-- **[BODS raw data on July 22](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0722.html)**
+- **[BODS raw data on July 22](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0722.html)**
 
-- **[BODS raw data on July 23](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0723.html)**
+- **[BODS raw data on July 23](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0723.html)**
 
-- **[BODS raw data on July 24](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0724.html)**
+- **[BODS raw data on July 24](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0724.html)**
 
-- **[BODS raw data on July 25](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_interactive_map_0725.html)**
+- **[BODS raw data on July 25](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_interactive_map_0725.html)**
 
-- **[Comparison of 10 and 20-minute isochrones obtained by Open Service Route (Folium map)](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/OpenServiceRoute_interactive_map_folium.html)**
+- **[Comparison of 10 and 20-minute isochrones obtained by Open Service Route (Folium map)](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/OpenServiceRoute_interactive_map_folium.html)**
 
-- **[Comparison of 10 and 20-minute isochrones obtained by Open Service Route (Plotly chart)](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/OpenServiceRoute_interactive_map_plotly.html)**
+- **[Comparison of 10 and 20-minute isochrones obtained by Open Service Route (Plotly chart)](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/OpenServiceRoute_interactive_map_plotly.html)**
 
-- **[Line chart showing the number of buses within Regent Street over time](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_Number_of_Buses_in_Regent_Area_over_Time.html)**
+- **[Line chart showing the number of buses within Regent Street over time](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_Number_of_Buses_in_Regent_Area_over_Time.html)**
 
-- **[Line chart showing the 20-minute isochrones area in Regent Street over time](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/BODS_20_min_Isochrone_Area_over_Time.html)**
+- **[Line chart showing the 20-minute isochrones area in Regent Street over time](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/BODS_20_min_Isochrone_Area_over_Time.html)**
 
-- **[Road network in Regent Street](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/regent_road_network.html)**
+- **[Road network in Regent Street](https://yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/regent_road_network.html)**
 
 ## 3. Exported Datasets During the Main Analysis (CRS of all GeoDataFrames: EPSG:4326)
 
