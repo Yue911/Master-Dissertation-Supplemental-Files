@@ -13,7 +13,7 @@ The source code consists of three IPynb files:
 
 ## 2. List of HTML Maps and Charts in This Repository (Click to open)
 
-- **[Heat map of bus stops in London](https://github.com/Yue911/MasterDissertationProject-KPMG_BODS/tree/main/html_map_chart/heatmap_bus_stops.html)**
+- **[Heat map of bus stops in London](https://Yue911.github.io/MasterDissertationProject-KPMG_BODS/html_map_chart/heatmap_bus_stops.html)**
 
 - **[Heat map of bus stops in Regent Street](https://github.kcl.ac.uk/pages/k23031223/YueMa_k23031223_NicolasHolliman_SupplementalFile_2023-24/html_map_chart/heatmap_bus_stops_regent.html)**
 
